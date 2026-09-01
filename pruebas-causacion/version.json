@@ -1,0 +1,5 @@
+{
+  "version": "1.1.0",
+  "url": "https://github.com/c0llaborative/accountant-releases/releases",
+  "notas": "Pantallazos de la DIAN recortados a la tabla de eventos; facturas escaneadas leidas por IA; varias empresas; los datos del contador pasan a %APPDATA% y sobreviven a la actualizacion."
+}
