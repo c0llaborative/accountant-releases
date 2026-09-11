@@ -1,5 +1,5 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/c0llaborative/accountant-releases/releases/tag/pruebas-causacion-v1.2.1",
-  "notas": "Corrige un fallo que impedia abrir la pagina de revision desde el programa: el navegador decia ERR_CONNECTION_REFUSED y recargar no servia. Si algo falla al abrirla, ahora el programa se lo dice en vez de dejarlo con un error del navegador. No cambia ninguna regla de retencion. Descomprima y copie la carpeta PruebasCausacion encima de la actual; no borre la anterior, Salidas esta dentro."
+  "version": "1.2.2",
+  "url": "https://github.com/c0llaborative/accountant-releases/releases/tag/pruebas-causacion-v1.2.2",
+  "notas": "El boton Abrir revision ya recuerda el trabajo guardado: antes quedaba gris al cerrar y volver a abrir el programa, y la unica salida aparente era volver a presionar Procesar, que rehace el mes desde cero y borra las aprobaciones ya hechas. No cambia ninguna regla de retencion. Descomprima y copie la carpeta PruebasCausacion encima de la actual; no borre la anterior, Salidas esta dentro."
 }
