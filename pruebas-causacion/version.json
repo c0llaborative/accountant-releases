@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/c0llaborative/accountant-releases/releases/tag/pruebas-causacion-v1.2.0",
-  "notas": "Dos reglas nuevas: si el pago no alcanza la base minima no se practica retencion en la fuente NI de ICA, y los ingresos recibidos para terceros ya no hacen base de retencion de ninguna de las dos. Ademas, el papel sale con el nombre de la empresa que se este trabajando. Descomprima y copie la carpeta PruebasCausacion encima de la actual; no borre la anterior, Salidas esta dentro. Si alguna vez edito a mano una instruccion de la IA, avise antes de actualizar."
+  "version": "1.2.1",
+  "url": "https://github.com/c0llaborative/accountant-releases/releases/tag/pruebas-causacion-v1.2.1",
+  "notas": "Corrige un fallo que impedia abrir la pagina de revision desde el programa: el navegador decia ERR_CONNECTION_REFUSED y recargar no servia. Si algo falla al abrirla, ahora el programa se lo dice en vez de dejarlo con un error del navegador. No cambia ninguna regla de retencion. Descomprima y copie la carpeta PruebasCausacion encima de la actual; no borre la anterior, Salidas esta dentro."
 }
