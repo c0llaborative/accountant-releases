@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "url": "https://github.com/c0llaborative/accountant-releases/releases/tag/pruebas-causacion-v1.2.2",
-  "notas": "El boton Abrir revision ya recuerda el trabajo guardado: antes quedaba gris al cerrar y volver a abrir el programa, y la unica salida aparente era volver a presionar Procesar, que rehace el mes desde cero y borra las aprobaciones ya hechas. No cambia ninguna regla de retencion. Descomprima y copie la carpeta PruebasCausacion encima de la actual; no borre la anterior, Salidas esta dentro."
+  "version": "1.2.3",
+  "url": "https://github.com/c0llaborative/accountant-releases/releases/tag/pruebas-causacion-v1.2.3",
+  "notas": "Boton nuevo en la pagina de revision: Volver a aplicar las reglas. Vuelve a decidir las tarifas del mes con las reglas vigentes sin volver a leer las facturas y sin perder su revision; sus correcciones manuales mandan, y si una regla cambia cifras que usted ya aprobo, esa factura vuelve a quedar pendiente. Ademas, el paso DIAN se detiene cuando el portal bloquea las consultas en vez de seguir a ciegas. Descomprima y copie la carpeta PruebasCausacion encima de la actual; no borre la anterior, Salidas esta dentro."
 }
